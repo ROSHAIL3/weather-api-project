@@ -135,5 +135,3 @@ Free for personal and educational use.
 Found a bug? Want a feature? Open an issue or contact me!
 
 Happy coding! 🐍🌤️
-```
-
