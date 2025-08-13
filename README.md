@@ -123,17 +123,6 @@ weather-api-project/
 
 ---
 
-## 🌟 Future Ideas
-
-Want to extend the project? Try:
-- Add 5-day forecast
-- Save weather data to CSV/JSON
-- Build a GUI with Tkinter
-- Create a web dashboard using Flask
-- Auto-detect user location
-
----
-
 ## 🙌 Credits
 
 Powered by [OpenWeatherMap](https://openweathermap.org/).  
